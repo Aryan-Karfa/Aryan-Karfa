@@ -1,26 +1,39 @@
-# 💫 About Me:
-👋 Hey, I'm Aryan!<br><br>I'm a self-taught developer and builder from India who loves turning ideas into real products. I enjoy learning by building full-stack applications from scratch rather than following tutorials, and I'm passionate about creating software that solves problems I personally face.<br><br>Currently, I'm focused on mastering modern web development while building production-ready projects that challenge me across frontend, backend, databases, authentication, APIs, deployment, and UI/UX design.<br><br>Outside of coding, I'm into fitness, photography, and constantly exploring ways to improve myself—whether that's through technology, business, or creative work. I enjoy breaking down complex systems, documenting everything properly, and building projects that are both functional and polished.<br><br>---<br><br>🚀 I'm currently working on<br><br>🎮 **GAMEZ** — A full-stack game library and progress tracker built with React, Node.js, Express, PostgreSQL, Prisma, and the RAWG API.<br>💪 **GBUD** — A gym workout companion for tracking exercises, routines, and fitness progress.<br>🎯 A personal **Wishlist & Motivation App** to organize long-term goals and purchases.<br>🌐 Improving and growing my family business website while learning SEO, deployment, and web optimization.<br><br>---<br><br>🤝 I'm looking to collaborate on<br><br>Full-stack web applications<br>Open-source projects<br>React & Node.js projects<br>Developer tools and productivity apps<br>UI/UX design improvements and frontend experiences<br><br>---<br><br>🌱 I'm looking for help with<br><br>Scalable backend architecture<br>System design<br>DevOps & CI/CD<br>Cloud deployment<br>Performance optimization<br>Writing clean, maintainable production code<br><br>---<br><br>📚 I'm currently learning<br><br>React + Vite<br>Node.js & Express<br>PostgreSQL & Prisma<br>Authentication & Security<br>REST API design<br>Full-stack architecture<br>System Design<br>Modern UI/UX principles<br>SEO & Web Performance<br><br>---<br><br>💬 Ask me about<br><br>React development<br>Node.js & Express<br>Building projects from scratch<br>Neo-Brutalist UI Design<br>Fitness & bodybuilding<br>Photography<br>Gaming<br>Learning through real-world projects<br><br>---<br><br>⚡ Fun Fact<br><br>I learn best by building ambitious projects. If I don't know something, I'll probably create an entire application around it just to understand how it works.<br>
+# Hey, I'm Aryan 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@aryankarfa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-karfa) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Itzz_Aryan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryankarfa2005@gmail.com) 
+**Self-taught developer and builder from India** who loves turning ideas into real products.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aryan-Karfa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aryan-Karfa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan-Karfa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I learn best by building: exploring how things work, making useful full-stack applications, and improving them one step at a time. This profile is where I share that journey and the projects behind it.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryan-Karfa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryan-Karfa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub](https://img.shields.io/badge/GitHub-Aryan--Karfa-181717?style=flat&logo=github)](https://github.com/Aryan-Karfa)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Aryan-Karfa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I care about
+
+- 🛠️ **Building by doing** — learning through projects, experimentation, and iteration.
+- 💡 **Making ideas real** — taking a concept from first sketch to something people can use.
+- 🌱 **Staying curious** — picking up new tools and getting a little better with every build.
+
+## What I'm working toward
+
+Growing as a full-stack developer by building thoughtful, practical applications and sharing what I learn along the way.
+
+## Featured projects
+
+I'm always working on something new. Take a look through my repositories to see what I'm building, and check back as this profile grows.
+
+➡️ [Explore my repositories](https://github.com/Aryan-Karfa?tab=repositories)
+
+## A little more about me
+
+- 📍 Based in India
+- 🧭 Self-taught and learning through building
+- 🧩 Interested in full-stack development and turning ideas into products
+
+## Let's connect
+
+Have an idea, want to collaborate, or just want to talk about building? Feel free to reach out through GitHub.
+
+---
+
+*Thanks for stopping by — happy building!* ✨
